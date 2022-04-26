@@ -1,0 +1,16 @@
+.box{
+    height: 500px;
+    width: 350px;
+    margin: auto;
+    padding: 4%;
+    border: solid 1px;
+    background-image: url(img/hero-img1.png) ;
+    background-image: ;
+}
+h1{
+    color: #49a852;
+}
+img{
+    height: 43px;
+    width: 163px;
+}
